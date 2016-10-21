@@ -1,0 +1,43 @@
+body,html{
+	height:100%;
+}
+.bg-img{
+	height:100%;
+  background:url('http://wallpapercave.com/wp/SKAnGM0.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+
+}
+h1{
+
+	font-size:-webkit-xxx-large;
+	color:#fff;
+}
+.inline{
+	width:100%;
+	 display: inline;
+    padding: 2%;
+}
+@media screen and (max-width:1159px){
+	a{
+	 margin: 3%;
+    width:auto;
+		display:inline;
+	}
+}
+.vertical-align {
+  opacity:1 !important;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
