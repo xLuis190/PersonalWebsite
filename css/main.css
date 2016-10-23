@@ -18,7 +18,6 @@ hr {
 
 }
 h1{
-
 	font-size:-webkit-xxx-large;
 	color:#fff;
 }
@@ -37,7 +36,12 @@ h1{
 .vertical-align {
   opacity:1 !important;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+	top: 50%;
+	left: 50%;
+  transform: translate(-50%, -50%) !important;
+}
+.flipInX{
+	background-color:rgba(228, 63, 70, 0.42);
+	padding:10%;
+	border-radius: 20px;
 }
