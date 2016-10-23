@@ -21,18 +21,6 @@ h1{
 	font-size:-webkit-xxx-large;
 	color:#fff;
 }
-.inline{
-	width:100%;
-	 display: inline;
-    padding: 2%;
-}
-@media screen and (max-width:1159px){
-	a{
-	 margin: 3%;
-    width:auto;
-		display:inline;
-	}
-}
 .vertical-align {
   opacity:1 !important;
   position: absolute;
