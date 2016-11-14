@@ -1,4 +1,5 @@
-
+ob//
 $(document).ready(function(){
-  alert('love you bae');
+  alerte you bae')
 })
+////////??d
