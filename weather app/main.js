@@ -15,6 +15,7 @@ $(document).ready(function(){
           $("#weather").html(html);
         },
         error: function(error) {
+          console.log(error)
           $("#weather").html('<p>'+error+'</p>');
         }
       });
