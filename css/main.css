@@ -3,7 +3,6 @@ body,html{
 }
 .bg-img{
   z-index: 0;
-
 }
 .bg-img::before{
 	height:100%;
@@ -65,4 +64,9 @@ h1{
 	color: #fff;
 	display: inline;
 	padding-left: 1%;
+}
+.card{
+	text-align:center;
+	align-items: center;
+	margin: 2%;
 }
